@@ -1,0 +1,5 @@
+<?php
+
+	echo "SOMOS DIVIFLEX, UNA FAMILIA";
+	echo "VIVA EL DINEROOOOO";
+?>
